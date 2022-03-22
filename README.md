@@ -2,7 +2,8 @@
 
 - [Heroku Dev Deploy](https://brady-server-deploy-dev.herokuapp.com/data)
 - [Heroku Prod Deploy](https://brady-server-deploy-prod.herokuapp.com/data)
-- [GitHub Actions]()
+- [GitHub Actions](https://github.com/bradyjcamp/server-deployment-practice/actions)
+- [Pull Requests](https://github.com/bradyjcamp/server-deployment-practice/pull/1)
 
 ## Node Ecosystem, TDD, CI/CD
 
